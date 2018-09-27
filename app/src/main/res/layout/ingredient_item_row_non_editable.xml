@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <RelativeLayout
+        android:id="@+id/circleLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/ingredientText"
+        android:layout_alignTop="@id/ingredientText"
+        android:layout_marginRight="8dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/circle"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:background="@drawable/circle" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/ingredientText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/circleLayout"
+        android:textSize="16sp"
+        tools:text="3 cups of milk" />
+
+</RelativeLayout>
