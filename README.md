@@ -37,3 +37,7 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20recipe%20new%20descri%20plus%20image.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20added.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20dir.png) |
 |:---:|:---:|:---:|
 | Add new recipe| New recipe ingredients| New recipe directions|
+
+| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/material%20design.gif) |
+|:---:|
+| Material Design motions |
