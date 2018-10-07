@@ -25,3 +25,7 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/recipes.png) |
 |:---:|
 | Recipes are divided into 5 cuisines: American - Vegan - Asian - Mediterrean - European | 
+
+| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/add%20new%20rcipe%20or%20sign%20out.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit-delete.png) |
+|:---:|:---:|
+| The vertical ellipsis icon allows option to create new recipe/sign out | Edit or delete a single recipe |
