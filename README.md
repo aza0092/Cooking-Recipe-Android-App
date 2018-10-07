@@ -1,6 +1,6 @@
 # Recipe App - Android based App
 
-![main screen](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/Webp.net-resizeimage%20(3).png)
+![main screen](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/splash%20screen.png)
 
 ## Description
 
@@ -21,3 +21,7 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/invalid%20credentials.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20acc.png) |
 |:---:|:---:|
 | The app has functionality to check for invalid credentials | Create new account screen |
+
+| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/recipes.png) |
+|:---:|
+| Recipes are divided into 5 cuisines: American - Vegan - Asian - Mediterrean - European | 
