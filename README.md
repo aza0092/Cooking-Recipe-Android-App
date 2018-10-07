@@ -14,6 +14,10 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 - `utils` folder contains snippets of code for various functionalities.
 
 ## Images
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/main%20scr.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/main%20screen.png) |
+| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/splash%20screen.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/main%20screen.png) |
 |:---:|:---:|
 | The splash screen  | main screen when the app is first opened |
+
+| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/invalid%20credentials.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20acc.png) |
+|:---:|:---:|
+| The app has functionality to check for invalid credentials | Create new account screen |
