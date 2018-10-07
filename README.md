@@ -31,7 +31,7 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 | The vertical ellipsis icon allows option to create new recipe/sign out | Edit or delete a single recipe |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20rec.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20ing%20or%20add%20new.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20new%20descr.png) |
-|:---:||:---:||:---:|
+|:---:|:---:||:---:|
 | Edit an existent recipe pages 1| Edit an existent recipe pages 2| Edit an existent recipe pages 3|
 
 
