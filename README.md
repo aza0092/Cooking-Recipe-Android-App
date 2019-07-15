@@ -4,7 +4,7 @@
 
 ## Live App
 
-Google Play Store link: goo.gl/8DKvWq
+Google Play Store link: https://goo.gl/8DKvWq
 
 ## Description
 
